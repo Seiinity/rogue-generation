@@ -82,13 +82,13 @@ public class DungeonGenerator
     {
         _isStepByStep = isStepByStep;
         
-        InitRooms(); // Steps 1 to 3.
-        ConnectNeighbouringRooms(); // Steps 4 and 5.
-        ConnectUnconnectedRooms(); // Steps 6 and 7.
-        CreateRooms(); // Step 8.
-        CreateCorridors(); // Step 9.
-        PlaceMonsters(); // Step 10.
-        PlaceStairs(); // Step 11.
+        InitRooms(); // Steps 1 and 2.
+        ConnectNeighbouringRooms(); // Steps 3 and 4.
+        ConnectUnconnectedRooms(); // Step 5.
+        CreateRooms(); // Step 6.
+        CreateCorridors(); // Step 7.
+        PlaceMonsters(); // Step 8.
+        PlaceStairs(); // Step 9.
     }
 
     /// <summary>
