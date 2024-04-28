@@ -1,3 +1,4 @@
+# Rogue Generation
 ![Rogue Generation](https://i.imgur.com/sOtsGff.png)
 ## Purpose
 This software creates dungeons akin to those in Rogue (1980). The dungeons aren't playable, they're merely visually generated.
